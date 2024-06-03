@@ -4,7 +4,7 @@ This compilation includes thousands of websites. It serves as a supplementary bl
 
 The blacklist is available [here](https://raw.githubusercontent.com/obscurasec/blacklists/main/malware.phishing.blacklist) :)
 
-# What types of website do we block?
+### What types of website do we block?
 * Malware and malvertising
 * Phishing and scam
 * Fraudulent retailers
