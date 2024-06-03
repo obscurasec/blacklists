@@ -1,3 +1,5 @@
 ## 🌌 ObscuraSec - Threat Research
-## Malware and Phishing Blacklist
+# 🐞🎣 Malware and Phishing Blacklist
+
+
 
